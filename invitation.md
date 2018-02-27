@@ -58,7 +58,7 @@
 | ruslan.nagumanov@brainysoft.ru|
 | renat_mursalimov@mail.ru|
 | bereznitskiy.vlad@brainysoft.ru|
-| git@poprigushka.ru |
+| git@poprigushka.ru | [PHP](https://github.com/drobyshev-av/hometasks/tree/master/task1_pow) |
 | kar.amb@yandex.ru|
 | petrklim@yandex.ru |
 | abegicheva@wavesplatform.com |
